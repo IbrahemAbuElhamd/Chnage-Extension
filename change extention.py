@@ -8,7 +8,7 @@ print()
 files_counter = 0
 i = 1
 while i<  17:
-    # Enter Thap path here
+    # Enter The path here
     #Name all folders to a
     path_folder = r'\a ({})'.format(i) # e.g. C:\Users\Fabio-Work\Desktop\python_project        
 
